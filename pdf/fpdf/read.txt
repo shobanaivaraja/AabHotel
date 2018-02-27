@@ -1,0 +1,2 @@
+Download the fpdf zip file from this link http://www.fpdf.org/en/download.php
+Unzip the files and extract in this folder
